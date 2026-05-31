@@ -1,9 +1,9 @@
-# TapFix Russian Language Pack v1
+# TapFix Russian Language Pack
 
-Package:
+Latest package:
 
 ```text
-ru.zip
+ru-v2.zip
 ```
 
 Contents:
@@ -16,9 +16,10 @@ dictionary.sqlite
 Stats:
 
 ```text
-words: 451967
-bigrams: 1000000
-zip size: 37697250 bytes
-sha256: 3212474842d1fbe4223da9c85c84d489c1053f17bead5f46171261cd6803da9e
+version: 2
+source: OPUS OpenSubtitles v2024 Russian side
+words: 313793
+bigrams: 1500000
+zip size: 39526125 bytes
+sha256: ba6da7ecd1f922c9013287358afb82ef1235f0d08ae9d586bff8ff7d6bb83308
 ```
-
