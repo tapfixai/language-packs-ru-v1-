@@ -3,7 +3,7 @@
 Latest package:
 
 ```text
-ru-v2.zip
+ru-v3.zip
 ```
 
 Contents:
@@ -16,10 +16,10 @@ dictionary.sqlite
 Stats:
 
 ```text
-version: 2
+version: 3
 source: OPUS OpenSubtitles v2024 Russian side
-words: 313793
+words: 318009
 bigrams: 1500000
-zip size: 39526125 bytes
-sha256: ba6da7ecd1f922c9013287358afb82ef1235f0d08ae9d586bff8ff7d6bb83308
+zip size: 39722419 bytes
+sha256: 498d82e512193dcd5b5ce63372b2405c44351ca3ff469b1e2c4e37caeb0fd810
 ```
